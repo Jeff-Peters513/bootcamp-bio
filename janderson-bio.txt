@@ -6,4 +6,5 @@ START: May  1  2017
 Experienced software instructor with deep knowledge of the following software products: 
 
 --Microsoft C# .net
+--Awsome CSS design skills 
 --Git & GitHub.
